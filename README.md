@@ -1,2 +1,2 @@
 # EC2-test
-Ths is EC2-test instance.
+Ths is EC2-test file with discription.
