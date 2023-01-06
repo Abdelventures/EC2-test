@@ -1,2 +1,1 @@
-# EC2-test
-This is a test
+merging in local machine
